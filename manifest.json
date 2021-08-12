@@ -2,7 +2,5 @@
   "short_name": "Weather App",
   "name": "Weather Application",
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "display": "standalone"
 }
